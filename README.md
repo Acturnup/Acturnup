@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [http://alexanderchansturgis.com/]([http://alexanderchansturgis.com/)
+- 👨‍💻 All of my projects are available at [http://alexanderchansturgis.com/](http://alexanderchansturgis.com/)
 
 - 💬 Ask me about **React, Tailwind, JavaScript, Python**
 
