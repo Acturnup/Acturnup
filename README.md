@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alexander Chan</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 
 - 🔭 I’m currently working on **Abstract Vision**
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [http://alexanderchansturgis.com/,https://editor.p5js.org/AlexChan/sketches](http://alexanderchansturgis.com/,https://editor.p5js.org/AlexChan/sketches)
+- 👨‍💻 All of my projects are available at [http://alexanderchansturgis.com/](http://alexanderchansturgis.com/,https://editor.p5js.org/AlexChan/sketches)
 
 - 💬 Ask me about **React, Tailwind, JavaScript, Python**
 
